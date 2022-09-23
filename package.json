@@ -1,0 +1,20 @@
+{
+	"name": "react-ts-webpack",
+	"version": "1.0.0",
+	"description": "test",
+	"main": "index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Lin-Sen1/react-ts-webpack.git"
+	},
+	"keywords": [
+		"吴哥吉祥"
+	],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Lin-Sen1/react-ts-webpack/issues"
+	},
+	"homepage": "https://github.com/Lin-Sen1/react-ts-webpack#readme"
+}
